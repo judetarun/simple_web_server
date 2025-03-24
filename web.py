@@ -6,7 +6,7 @@ content='''
 </head>
 <body>
      <table border="2" cellpadding="6">
-        <caption style="font-size: x-large;">LAPTOP SPECIFICATTION</caption>
+        <caption style="font-size: x-large;">TOP 5 REVENUE BASED SOFTWARE INDUSTRIES </caption>
         <TR>
             <th>S.NO</th>
             <th>COMPANIES</th>
