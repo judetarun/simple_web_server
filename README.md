@@ -58,7 +58,7 @@ content='''
      </table> 
 </body>
 </html>
-
+'''
 class MyServer(BaseHTTPRequestHandler):
     def do_GET(self):
         print("Get request received...")
